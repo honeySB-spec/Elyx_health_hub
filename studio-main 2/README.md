@@ -1,6 +1,4 @@
 # Elyx Web Application 
- # LINK: https://studio-elyx.vercel.app/
-
 # Overview
 Elyx is a next-generation health platform designed to maximize the number of healthy years in a member’s life. Unlike traditional healthcare systems that focus on treating illness, Elyx emphasizes prevention, optimization, and personalization. The web application acts as the central hub where members, doctors, and specialists collaborate seamlessly with AI to manage health journeys.
 
